@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Continuous+Learner+%F0%9F%93%9A;Problem+Solver+%F0%9F%94%A7;Coding+with+Passion+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-![Banner https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=Md%20Sahwaz%20%7C%20sahwazdev%0AFull%20Stack%20Developer%20%7C%20MERN%20Learner&fontSize=26&fontColor=ffffff&animation=twinkling
-
+![Banner}(https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Md%20Sahwaz%20%7C%20sahwazdev%0AFull%20Stack%20Developer%20%7C%20MERN%20Learner&fontSize=28&fontAlignY=35&fontColor=ffffff&animation=twinkling)
 # 👋 Hey, I'm Md Sahwaz | aka *sahwazdev*  
 💻 Passionate about Full Stack Development & Continuous Learning  
 
