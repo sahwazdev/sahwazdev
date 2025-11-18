@@ -52,8 +52,8 @@
 ## 📫 Connect With Me  
 - 📞 Mobile: ‪+91 7428709774‬  
 - ✉ Email: [sahwazdeveloper@gmail.com](mailto:sahwazdeveloper@gmail.com)  
-- 💼 LinkedIn: add your link here later  
-- 🌍 Portfolio: coming soon...  
+- 💼 LinkedIn: (https://www.linkedin.com/in/sahwaz-dev/)
+- 🌍 Portfolio: https://upgrademyportfilov3.netlify.app/
 
 ---
 
